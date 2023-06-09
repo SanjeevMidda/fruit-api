@@ -7,7 +7,7 @@ const PORT = 3001;
 // });
 
 app.get("/", (req,res) => {
-    res.sendFile("/Users/sanjeevmidda/Desktop/server-fruits/src/fruitsDB.json")
+    res.sendFile("fruitsDB.json")
 })
 app.listen(PORT, () => {
     console.log("Server is up and running on PORT: " + PORT);
