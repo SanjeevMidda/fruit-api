@@ -13,7 +13,8 @@ app.get("/", (req,res) => {
       "name": "strawberries",
       "color": "red",
       "quantity": 12,
-      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png",
+        'type': 'basic'
     },
     {
       "name": "pears",
