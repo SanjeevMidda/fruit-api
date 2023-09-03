@@ -23,6 +23,12 @@
       "color": "red",
       "quantity": 53,
       "img": "https://static.vecteezy.com/system/resources/previews/009/597/067/original/grape-fruit-illustration-cartoon-png.png"
+    },
+    {
+      "name": "apples",
+      "color": "green",
+      "quantity": 15,
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
     }
   ]
 }
