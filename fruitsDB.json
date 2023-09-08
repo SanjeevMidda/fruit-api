@@ -47,6 +47,12 @@
       "color": "black",
       "quantity": 3,
       "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
+    },
+    {
+      "name": "plum",
+      "color": "purple",
+      "quantity": 55,
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
     }
   ]
 }
