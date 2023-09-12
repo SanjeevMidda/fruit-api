@@ -71,6 +71,12 @@
       "color": "orange",
       "quantity": 75,
       "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
+    },
+{
+      "name": "pineapple",
+      "color": "yellow",
+      "quantity": 1,
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
     }
   ]
 }
