@@ -77,6 +77,12 @@
       "color": "yellow",
       "quantity": 1,
       "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
+    },
+    {
+      "name": "watermelon",
+      "color": "green",
+      "quantity": 35,
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
     }
   ]
 }
