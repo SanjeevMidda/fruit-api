@@ -107,6 +107,12 @@
       "color": "green",
       "quantity": 8,
       "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
+    },
+    {
+      "name": "carrot",
+      "color": "irange",
+      "quantity": 15,
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
     }
   ]
 }
