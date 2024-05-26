@@ -110,8 +110,14 @@
     },
     {
       "name": "carrot",
-      "color": "irange",
+      "color": "orange",
       "quantity": 15,
+      "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
+    }
+    {
+      "name": "wild berries",
+      "color": "red",
+      "quantity": 7,
       "img": "https://static.vecteezy.com/system/resources/previews/010/225/631/original/strawberry-fruit-2d-illustration-png.png"
     }
   ]
